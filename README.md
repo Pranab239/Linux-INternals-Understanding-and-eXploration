@@ -35,7 +35,7 @@ This project involves the development of various Linux kernel modules and IOCTL 
 ## Directory Structure
 
 ```
-<rollnumber>_assignment1/
+Linux-INternals-Understanding-and-eXploration/
 ├── 1/
 │   ├── lkm1.c
 │   ├── lkm2.c
